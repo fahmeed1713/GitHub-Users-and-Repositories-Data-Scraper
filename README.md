@@ -1,2 +1,5 @@
-# GitHub-Users-and-Repositories-Data-Scraper
-This repository contains a Python script that utilizes the GitHub API to scrape data on users located in Barcelona who have more than 100 followers. The script collects detailed user information, including their profiles and repositories, and saves this data into CSV files for further analysis.
+# GitHub Users and Repositories Data Scraping
+
+- This project scrapes GitHub user data for individuals located in Barcelona with over 100 followers, along with their repositories. 
+- A surprising find was that many users with significant follower counts had few or no public repositories, indicating potential disparities between follower counts and activity.
+- Developers should consider engaging with users who have many followers but limited contributions, as they may be open to collaboration or mentorship opportunities.
